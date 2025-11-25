@@ -1,6 +1,6 @@
 {
-    "name": "gtfohax",
-    "version-string": "0.1",
+  "name": "gtfohax",
+  "version-string": "0.1",
   "dependencies": [
     {
       "name": "detours",
@@ -14,5 +14,6 @@
       "name": "freetype",
       "platform": "(windows & x64)"
     }
-  ]
+  ],
+  "builtin-baseline": "bd52fac7114fdaa2208de8dd1227212a6683e562"
 }
