@@ -32,7 +32,7 @@ namespace G {
     KeyBind menuKey(KeyBind::INSERT);
     KeyBind unloadKey(KeyBind::DEL);
 
-    bool watermark = true;
+    bool watermark = false;
     int watermarkCorner = 0;
 
     app::Camera* mainCamera = NULL;
